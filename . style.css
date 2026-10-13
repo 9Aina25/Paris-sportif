@@ -1,0 +1,9 @@
+/* Reprendre tous les styles du head dans un fichier externe */
+body { background: #0b1a2e; font-family: system-ui; color:#eef4ff; margin:0; }
+.container { max-width:1300px; margin:auto; padding:2rem; }
+.card { background:#132433cc; border-radius:28px; padding:1.5rem; }
+.btn { background:#2c3e66; padding:0.6rem 1.2rem; border-radius:40px; color:white; display:inline-block; text-decoration:none; border:none; cursor:pointer; }
+.btn-primary { background:#ff8c42; color:#0f1722; }
+input, select, textarea { background:#1e2a3a; border:1px solid #3a4c6e; padding:0.7rem; border-radius:28px; color:white; width:100%; margin:0.5rem 0; }
+.bet-card { background:#0e1a28; border-radius:24px; padding:1.2rem; margin-bottom:1rem; border-left:5px solid #ffb347; }
+.grid-2 { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1.5rem; }

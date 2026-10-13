@@ -1,0 +1,1 @@
+<div class="container"><h3>Confidentialité</h3><p>Vos données ne sont jamais partagées.</p></div>
